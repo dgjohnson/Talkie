@@ -4,9 +4,7 @@
 
 #ifndef _Talkie_h_
 #define _Talkie_h_
-
-#include <inttypes.h>
-
+#include "application.h"
 
 class Talkie
 {
