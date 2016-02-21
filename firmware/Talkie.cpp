@@ -2,7 +2,6 @@
 // Copyright 2011 Peter Knight
 // This code is released under GPLv2 license.
 
-#include "Arduino.h"
 #include "talkie.h"
 
 #define FS 8000 // Speech engine sample rate
