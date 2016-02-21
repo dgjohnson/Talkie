@@ -1,7 +1,0 @@
-{
-  "name": "talkie",
-  "author": "David Johnson",
-  "license": "MIT",
-  "version": "0.0.10",
-  "description": "A photon port of a popular voice library for arduino."
-}
