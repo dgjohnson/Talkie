@@ -1,7 +1,7 @@
 // Talkie library
 // Copyright 2011 Peter Knight
 // This code is released under GPLv2 license.
-
+#include "application.h"
 #ifndef _Talkie_h_
 #define _Talkie_h_
 
