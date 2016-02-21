@@ -2,12 +2,7 @@
 // Copyright 2011 Peter Knight
 // This code is released under GPLv2 license.
 
-#if (ARDUINO >= 100)
- #include "Arduino.h"
-#else
- #include <avr/io.h>
- #include "WProgram.h"
-#endif
+#include "Arduino.h"
 #include "talkie.h"
 
 #define FS 8000 // Speech engine sample rate
